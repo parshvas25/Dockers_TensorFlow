@@ -1,0 +1,1 @@
+$ dockers run -it -d tensorflow/tensorflow:latest-devel
