@@ -1,0 +1,3 @@
+Grab container_id by using call $ dockers ps -a and copy any active containers
+
+$ dockers cp (insert files for testing/training) contained_id:/
